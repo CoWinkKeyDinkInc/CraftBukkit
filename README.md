@@ -3,17 +3,17 @@ CraftBukkit
 
 A Bukkit (Minecraft Server API) implementation
 
-Website: [http://bukkit.org](http://bukkit.org)  
-Bugs/Suggestions: [http://leaky.bukkit.org](http://leaky.bukkit.org)  
-Contributing Guidelines: [CONTRIBUTING.md](https://github.com/Bukkit/CraftBukkit/blob/master/CONTRIBUTING.md)
+Website: [REDACTED](http://bukkit.org)  
+Bugs/Suggestions: [REDACTED](http://leaky.bukkit.org)  
+Contributing Guidelines: [REDACTED](https://github.com/Bukkit/CraftBukkit/blob/master/CONTRIBUTING.md)
 
 Compilation
 -----------
 
 We use maven to handle our dependencies.
 
-* Install [Maven 3](http://maven.apache.org/download.html)
-* Check out and install [Bukkit](http://github.com/Bukkit/Bukkit)
+* Install [REDACTED](http://maven.apache.org/download.html)
+* Check out and install [REDACTED](http://github.com/Bukkit/Bukkit)
     * *Note*: this is not needed as the repository we use has Bukkit too, but you might have a newer one (with your own changes :D)
 * Check out this repo and: `mvn clean package`
 
@@ -32,3 +32,11 @@ You may use it as long as you follow the text above and below you.
 5. Tell Mojang to get rid of the whole "Only fix things if people complain about it and does not involve the EULA or anything else retarded we did" mentality, It will cost Mojang too many problems later on when it's found out that people prefer the "bugs".
 6. Ask Mojang to listen to the PvP community for once. Mojang doesn't care about PvP.
 7. Tell Mojang they learned an important life lesson, that they should tell everyone what the fuck is going on when they suddenly buy/take owner-ship of a company or organization.
+
+
+Oh GOD MICROSHAFT MAKING MINECRAFT WINBLOWS 8 EXCLUSIVE!!!t1r4^$&*()^%)@%7672186yj7b9y8+40us4n20bs8msry=61s
+===================================================================================================
+
+![GitHub Logo](https://i.imgur.com/ak5loAw.png)
+![GitHub Logo](http://i.imgur.com/Yhjplah.png?1)
+
