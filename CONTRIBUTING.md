@@ -14,8 +14,8 @@ The Bukkit project prides itself on being community built and driven.  We love i
 ![Life Cycle of a Bukkit Improvement](http://i.imgur.com/Ed6T7AE.png)
 
 ## Getting Started
-- You'll need a free [JIRA account](http://leaky.bukkit.org) (on our issue tracker affectionately called Leaky).
-- You'll need a free [GitHub account](https://github.com/signup/free).
+- You'll need a [JIRA account](http://leaky.bukkit.org) (on our issue tracker affectionately called Leaky).
+- You'll need a [GitHub account](https://github.com/signup/free).
 - Make sure you have a JIRA ticket for your issue at hand.
     * Either search the list of current issues and find an appropriate issue.
     * Or create one yourself if one does not already exist.
