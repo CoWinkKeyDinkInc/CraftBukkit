@@ -15,7 +15,7 @@ We use maven to handle our dependencies.
 * Install [REDACTED](http://maven.apache.org/download.html)
 * Check out and install [REDACTED](http://github.com/Bukkit/Bukkit)
     * *Note*: this is not needed as the repository we use has Bukkit too, but you might have a newer one (with your own changes :D)
-* Check out this repo and: `mvn clean package`
+* Check out this repo and: `REDACTED`
 
 
 COPYRIGHT YOU GOTTA CHECK THIS OUT FIRST JUST IN CASE
@@ -23,7 +23,7 @@ COPYRIGHT YOU GOTTA CHECK THIS OUT FIRST JUST IN CASE
 
 Permission is granted, free of charge, for anyone to download, fork and use this repository for any purpases of including but not limited to, rewrite, improve, acess, copy, paste, obtaian, possess, share, give away, trade, donate, remake, remix, undo, redo, burn to CD, burn to DVD, burn to Blu-ray, burn to other discs, compile, store, reupload, redownload, upload to Google Drive, upload to DropBox, upload to Mega, use it for capitalist purpases, use it for communist purpases, make profit, lose profit, capitalize, backup, create plugins for it, torrent, threaten others over the internet about copyright using only words, Americanize, 'Muricanize, weaponize, monoplize, transform, print, transmit, fax, transmit, recive, transive, archive, text, test, experiment, Bluetooth, Tweet, Facebook, Post, Tumblr, Google+, email, GitHub, Google, blow up, destroy North Korea, revive the Russian Empire/USSR/Soviet Union/RSFSR/Soviet Russia, refrence, tape, fix, repair, reform, reduce, reuse, recycle, buy the Crimean Pinnensula, learn, teach, educate, participate, recreate, RE-create procreate, vote, create the Union of Kazakhstan, Uzbekistan, Afganistan, Turkministan, Kyrgystan, Tajikstan and Pakistan AKA the Union of Stans, unite, seperate, unionize, merge, bug, glitch, bog, wreck, rek, shrek, h8, hate, install, elect, imperealize, socalize, actually use the repository to run a Minecraft server + Bukkit plugins, thank to your god(s)/people that you can actually (bother) to do stuff thanks to plugins, and most importantly make robots,  (using) the repository.
 
-You may use it as long as you follow the text above and below you. 
+You may use this heavenly repository as long as you read and follow the text above and below you. 
 
 1. You credit me as the kind soul for forking a fork of CraftBukkit for your uses.
 2. You tell Mojang to fix their fucking shitty EULA so they can't screw up any more of the Minecraft community from trying to do anything efficently (WorldEdit, NBT editor, Bungeecord, etc) by using any means nessary. (Facebook, Tweet, Tumblr, Google+, Blog, email, GitHub, snail mail, Linkedin and myspace about it to them, punch lawyers in the face, ask intellegent questions to them about it @ Minecon 2014/2015, tell Notch to STFU about Minecraft ELUA if he does not run it, etc)
@@ -36,7 +36,10 @@ You may use it as long as you follow the text above and below you.
 
 Oh GOD MICROSHAFT MAKING MINECRAFT WINBLOWS 8 EXCLUSIVE!!!t1r4^$&*()^%)@%7672186yj7b9y8+40us4n20bs8msry=61s
 ===================================================================================================
-
+![Windows8AOL](http://cdn.ientry.com/sites/webpronews/pictures/AolWindows8Pic5.jpg)
+STEVE COULD HAVE RUINED THE GAME EVEN MORE!>!W! WHAT A COINCIDENCE!!!(\*#*!&
+===============================================================
+![Steve](http://www.quickmeme.com/img/d1/d1ad890f376fc14ecc27748d6bcbbb7d45c009994f861aa7aa656592d5598517.jpg)
 ![GitHub Logo](https://i.imgur.com/ak5loAw.png)
 ![GitHub Logo](http://i.imgur.com/Yhjplah.png?1)
 
