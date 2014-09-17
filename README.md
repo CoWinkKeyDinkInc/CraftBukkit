@@ -26,12 +26,12 @@ Permission is granted, free of charge, for anyone to download, fork and use this
 You may use this heavenly repository as long as you read and follow the text above and below you. 
 
 1. You credit me as the kind soul for forking a fork of CraftBukkit for your uses.
-2. You tell Mojang to fix their fucking shitty EULA so they can't screw up any more of the Minecraft community from trying to do anything efficently (WorldEdit, NBT editor, Bungeecord, etc) by using any means nessary. (Facebook, Tweet, Tumblr, Google+, Blog, email, GitHub, snail mail, Linkedin and myspace about it to them, punch lawyers in the face, ask intellegent questions to them about it @ Minecon 2014/2015, tell Notch to STFU about Minecraft ELUA if he does not run it, etc)
-3. Tell Mojang to undo the TNT being moved by the water thing, it's unessary and ruins TNT cannons.
-4. Ask Mojang to fix their bug tracker, if it's more than 50% duplicates, you think they would fix it but they only will if one person whines about it which brings me to...
-5. Tell Mojang to get rid of the whole "Only fix things if people complain about it and does not involve the EULA or anything else retarded we did" mentality, It will cost Mojang too many problems later on when it's found out that people prefer the "bugs".
-6. Ask Mojang to listen to the PvP community for once. Mojang doesn't care about PvP.
-7. Tell Mojang they learned an important life lesson, that they should tell everyone what the fuck is going on when they suddenly buy/take owner-ship of a company or organization.
+2. You tell Mojang/Microsoft to fix their fucking shitty EULA so they can't screw up any more of the Minecraft community from trying to do anything efficently (WorldEdit, NBT editor, Bungeecord, etc) by using any means nessary. (Facebook, Tweet, Tumblr, Google+, Blog, email, GitHub, snail mail, Linkedin and myspace about it to them, punch lawyers in the face, ask intellegent questions to them about it @ Minecon 2014/2015, tell Notch to STFU about Minecraft ELUA if he does not run it, etc)
+3. Tell Mojang/Microsoft to undo the TNT being moved by the water thing, it's unessary and ruins TNT cannons.
+4. Ask Mojang/Microsoft to fix their bug tracker, if it's more than 50% duplicates, you think they would fix it but they only will if one person whines about it which brings me to...
+5. Tell Mojang/Microsoft to get rid of the whole "Only fix things if people complain about it and does not involve the EULA or anything else retarded we did" mentality, It will cost Mojang too many problems later on when it's found out that people prefer the "bugs".
+6. Ask Mojang/Microsoft to listen to the PvP community. Mojang doesn't care about PvP so Microsoft should force them.
+7. Tell Mojang they learned an important life lesson, that they should tell everyone what the fuck is going on when they suddenly buy/take owner-ship of a company or organization. Luckly, Microsoft is there to guide them to common sence things like this.
 
 
 Oh GOD MICROSHAFT MAKING MINECRAFT WINBLOWS 8 EXCLUSIVE!!!t1r4^$&*()^%)@%7672186yj7b9y8+40us4n20bs8msry=61s
