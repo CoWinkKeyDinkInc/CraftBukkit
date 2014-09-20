@@ -1,36 +1,8 @@
-# Eclipse stuff
-/.classpath
-/.project
-/.settings
+# Idiots
+/Mojang
 
-# netbeans
-/nbproject
+/Bukkit DMCA
 
-# we use maven!
-/build.xml
+/Wolverness, Wolves, whatever the hell his name is.
 
-# maven
-/target
-
-# vim
-.*.sw[a-p]
-
-# various other potential build files
-/build
-/bin
-/dist
-/manifest.mf
-
-/world
-
-# Mac filesystem dust
-.DS_Store
-
-# intellij
-*.iml
-*.ipr
-*.iws
-.idea/
-
-/src/main/resources/achievement
-/src/main/resources/lang
+/copyright
