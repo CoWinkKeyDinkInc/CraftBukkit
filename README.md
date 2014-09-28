@@ -1,7 +1,7 @@
 CraftBukkit
 ===========
 
-A Bukkit (Minecraft Server API) implementation
+[CHECK OUT THE WEBZONE THAT ALLOWS YOU TO DOWNLOAD SPIGOT AND ALL THAT.](http://cowinkkeydinkinc.github.io/CraftBukkit)
 
 Website: [REDACTED](http://bukkit.org)  
 Bugs/Suggestions: [REDACTED](http://leaky.bukkit.org)  
